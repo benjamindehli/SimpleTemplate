@@ -1,0 +1,30 @@
+.container {
+  padding: 15px;
+}
+
+.row{
+  margin-left: -5px;
+  margin-right: -5px;
+}
+
+.col{
+  margin: 5px;
+  padding: 10px;
+  float: left;
+  background-color: #FFF;
+}
+
+.col-2{
+  width: calc(25% - 10px);
+}
+
+.col-header{
+  background-color: rgba(0,0,0,.2);
+  margin: -10px -10px 0 -10px;
+  padding: 10px;
+}
+
+.col-header > * {
+  margin: 0;
+  font-size: 16pt;
+}

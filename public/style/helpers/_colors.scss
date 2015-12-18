@@ -1,0 +1,38 @@
+$white: #FFFFFF;
+$blue: #2196F3;
+$indigo: #3F51B5;
+$red: #F44336;
+$yellow: #FF9800;
+$green: #4CAF50;
+
+.fg-white{
+  color: $white;
+}
+
+.bg-blue {
+  background-color: $blue;
+}
+
+.bg-indigo{
+  background-color: $indigo;
+}
+
+.bg-red{
+  background-color: $red;
+}
+
+.bg-yellow{
+  background-color: $yellow;
+}
+
+.bg-green{
+  background-color: $green;
+}
+
+.z-1{
+  box-shadow: 0 2px 0 1px rgba(0,0,0,.2);
+}
+
+.z-2{
+  box-shadow: 0 4px 0 2px rgba(0,0,0,.1);
+}
