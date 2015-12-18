@@ -1,0 +1,21 @@
+{"pages":[
+  {
+    "title":"Home",
+    "id":"home",
+    "url":"views/home.html"
+  },
+  {
+    "title":"News",
+    "id":"news",
+    "url":"views/news.html"
+  },
+  {
+    "title":"About",
+    "id":"about",
+    "url":"views/about.html"
+  },
+  {
+    "title":"Contact",
+    "id":"contact",
+    "url":"views/contact.html"}
+]}
